@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConvertColor", "ConvertColor\ConvertColor.vcxproj", "{01BAA10E-2E14-4631-AFD4-AD2897EC36BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01BAA10E-2E14-4631-AFD4-AD2897EC36BC}.Debug|x64.ActiveCfg = Debug|x64
+		{01BAA10E-2E14-4631-AFD4-AD2897EC36BC}.Debug|x64.Build.0 = Debug|x64
+		{01BAA10E-2E14-4631-AFD4-AD2897EC36BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{01BAA10E-2E14-4631-AFD4-AD2897EC36BC}.Debug|x86.Build.0 = Debug|Win32
+		{01BAA10E-2E14-4631-AFD4-AD2897EC36BC}.Release|x64.ActiveCfg = Release|x64
+		{01BAA10E-2E14-4631-AFD4-AD2897EC36BC}.Release|x64.Build.0 = Release|x64
+		{01BAA10E-2E14-4631-AFD4-AD2897EC36BC}.Release|x86.ActiveCfg = Release|Win32
+		{01BAA10E-2E14-4631-AFD4-AD2897EC36BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC6001FA-2760-407B-8773-1BAD4B90AE61}
+	EndGlobalSection
+EndGlobal
